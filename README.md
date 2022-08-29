@@ -1,11 +1,5 @@
-# Diddy-Doc/README.md
+# Diddy-Doc
 <html>
-        
-<head>
-
-<title>Diddy Kong Appreciation</title>
-
-</head>
 
 <body>
 
