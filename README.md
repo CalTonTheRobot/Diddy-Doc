@@ -1,17 +1,13 @@
 # Diddy-Doc/README.md
 <html>
-
-ls 
-cd documents
-ls
-
+        
 <head>
 
 <title>Diddy Kong Appreciation</title>
 
 </head>
 
-<body.>
+<body>
 
 <header>
 
@@ -89,6 +85,6 @@ Diddy sports a red shirt with yellow stars and a red hat with the Nintendo logo 
 
 </div>
 
-</body.>
+</body>
 
 </html>
